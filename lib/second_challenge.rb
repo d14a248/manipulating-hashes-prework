@@ -6,7 +6,7 @@ def second_challenge
    meat: ["chicken", "steak", "salmon"],
    grains: ["rice", "pasta"]
   }
-  binding.pry
+ # binding.pry
   groceries.values.flatten
 
   
